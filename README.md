@@ -1,4 +1,4 @@
-![plec_logo](https://github.com/plec3d/plec3d/assets/142444700/9d428ef6-3796-4096-b0de-a8b1d4bb310e)
+![plec_logo](https://github.com/plec3d/plec3d/assets/142444700/133206d8-2950-4379-83f7-a3d85bd9c33b)
 ## PLEC - Color 3D Printing
 
 > PLEC (short for `purgeless extruding colorizer`) is a community-driven project to combine the possibilities of 3D printing with sustainability and color- and material-fusing.
