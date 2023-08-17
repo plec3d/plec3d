@@ -1,5 +1,4 @@
-
-![plec_logo](https://github.com/plec3d/plec3d/assets/142444700/f9ca0ef9-4d03-4c66-a839-3f5de30584c7)
+![plec_logo](https://github.com/plec3d/plec3d/assets/142444700/875a5bc3-fb84-41a9-8cc5-bed2ce462c51)
 
 
 ## PLEC - Color 3D Printing
